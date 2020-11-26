@@ -4,11 +4,33 @@ title: Introducción
 sidebar_label: Introducción
 ---
 
-Seguramente ya habrás escuchado hablar sobre Bitcoin alguna vez.
+Seguramente ya habrás escuchado hablar sobre Bitcoin alguna vez, pero también es probable que tengas muchos conceptos y palabras
+en tu cabeza sin acabar de entender como funciona todo. La misión de esta página es explicar todo lo que es Bitcoin de manera sencilla y para todo el mundo.
 
-## Lorem
+Al leer esta introducción puede que te sientas perdido en algún momento, pero no te preocupes. Todo va a ser explicado en algún momento. Debes ir quedándote con los conceptos y todas tus dudas se van a ir solucionando a medida que leas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+## Bitcoin a grandes rasgos
+
+Bitcoin es una colección de conceptos y tecnologías que se juntan para crear un ecosistema de dinero digital. Las unidades de moneda, llamadas bitcoin, se utilizan para almacenar y transmitir valor entre los participantes de la red bitcoin.
+
+Los usuarios se conectan entre si utilizando el protocolo Bitcoin a través de internet principalmente, aunque se pueden usar otras redes para la comunicación. 
+
+> Resumiendo: Bitcoin es un protocolo que comunica a los usuarios de la red entre ellos para hacer transacciones con la moneda llamada bitcoin.
+
+Pero a diferencia de las monedas tradicionales, bitcoin es 100% virtual. No hay monedas físicas (ni virtuales) como tal. Las monedas existen implícitas en las transacciones. Los usuarios de la red bitcoin tienen unas claves que les permiten demostrar a la red que son propietarios de cierta cantidad de moneda. Con estas claves los usuarios son capaces de desbloquear (firmar) el valor y gastarlo para enviarlo a otras personas. Estas claves normalmente son almacenadas en lo que se llama **cartera** (o *wallet* en inglés), que suele ser una aplicación, un papel o un dispositivo específico. La posesión de una llave que puede firmar una transacción es el único requisito previo para gastar bitcoin, poniendo el control totalmente en manos de cada usuario.
+
+Bitcoin es un **sistema distribuido**, de par a par. Como tal, no hay un servidor "central" o punto de control. No hay una sola entidad que emita y controle las transacciones.
+
+Los Bitcoin se crean a través de un proceso llamado **minería**, este proceso implica competir para encontrar soluciones a un problema matemático mientras se procesan las transacciones de bitcoin. Cualquier participante en la red de bitcoin (es decir, cualquier persona que utilice un dispositivo que ejecute el protocolo bitcoin) puede operar como un minero, utilizando la potencia de procesamiento de su ordenador para verificar y registrar las transacciones. Cada 10 minutos, en promedio, un minero de bitcoin puede validar las transacciones de los últimos 10 minutos y es recompensado con **bitcoin nuevo**. 
+
+Esencialmente, la minería de bitcoin descentraliza las funciones de emisión de moneda de un banco central y **sustituye la necesidad de cualquier banco central**. Más adelante trataremos el proceso de minado más a fondo. Por ahora quédate con las ideas básicas.
+
+Además bitcoin es también el nombre del protocolo, una red de par a par y una innovación informática descentralizada. La moneda bitcoin es en realidad sólo la primera aplicación de este nuevo invento. Bitcoin representa la culminación de décadas de investigación en criptografía y sistemas distribuidos e incluye cuatro innovaciones clave reunidas en una combinación única y poderosa. Bitcoin consiste en:
+
+* Una red descentralizada peer-to-peer (el protocolo Bitcoin)
+* Un libro de transacciones públicas (la cadena de bloques)
+* Un conjunto de reglas para la validación independiente de transacciones y la emisión de moneda (reglas de consenso)
+* Un mecanismo para alcanzar un consenso global descentralizado sobre la cadena de bloques válida (algoritmo de prueba de trabajo)
 
 ## Mauris In Code
 
