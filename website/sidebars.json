@@ -1,8 +1,8 @@
 {
   "docs": {
     "Introducción": [
-	    "01", 
-	    "02"
+	    "d01", 
+	    "d02"
     ],
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
